@@ -19,5 +19,5 @@
 Перед использованием, установите и включите расширение Allow CORS.
 - Firefox: https://addons.mozilla.org/en-US/firefox/addon/access-control-allow-origin/
 - Chrome: https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf
-- Opera: https://addons.opera.com/en/extensions/details/allow-cors-access-control-allow-origin/
+- Opera: https://addons.opera.com/en/extensions/details/cors-toggle/
 - Edge: https://microsoftedge.microsoft.com/addons/detail/bhjepjpgngghppolkjdhckmnfphffdag
