@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/rbeat/hotline.ua-parser/main/favicon.ico" height="128" />
+
 # R.Beat's Hotline.ua Price Parser
 Предоставит все цены на товары по их артикулу в Excel(CSV) файле. 
 
